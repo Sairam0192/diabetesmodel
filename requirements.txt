@@ -1,5 +1,10 @@
-joblib==0.16.0
-numpy==1.19.1
-pandas==1.1.0
-scikit-learn==0.23.2
-streamlit==0.64.0
+pyserial
+pandas
+numpy
+scipy
+matplotlib
+jupyter
+scikit-learn
+setup.py
+streamlit
+Pillow
