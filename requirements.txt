@@ -1,10 +1,6 @@
-pyserial
-pandas
-numpy
-scipy
-matplotlib
-jupyter
-scikit-learn
-setup.py
-streamlit
-Pillow
+numpy==1.22.3
+pandas==1.4.6
+matplotlib==3.8.4
+jupyter==1.0.0
+scikit-learn==1.4.2
+
