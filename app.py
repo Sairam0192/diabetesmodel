@@ -8,7 +8,7 @@ from sklearn.preprocessing import StandardScaler
 from PIL import Image
 
 # load the diabetes dataset
-diabetes_df = pd.read_csv('diabetes.csv')
+diabetes_df = pd.read_csv(r'C:\Users\LENOVO\Downloads\Diabetes-Disease-Prediction-Model-main\Diabetes-Disease-Prediction-Model-main\diabetes.csv')
 
 # group the data by outcome to get a sense of the distribution
 diabetes_mean_df = diabetes_df.groupby('Outcome').mean()
